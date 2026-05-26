@@ -1,0 +1,5 @@
+@import "./components/Section/section.css";
+
+.logo {
+  max-width: 100px;
+}

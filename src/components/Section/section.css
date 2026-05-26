@@ -1,0 +1,18 @@
+section h2 {
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.categ-img-container {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  gap: 5px;
+  margin-bottom: 54px;
+  scrollbar-width: none;
+  height: 180px;
+}
+
+.categ-img-container img:last-child {
+  margin-right: 24px;
+}
